@@ -326,3 +326,13 @@ There are two options of defining:
 
 - `#!/bin/bash` direct path to interpreter
 - `#!/usr/bin/env bash` get the path to interpreter from env
+
+## basic script head (needed for every script)
+
+```bash
+# Skript: <name> 
+# Aufruf: <script-call>
+# <description>
+# Autor: <autor>
+# Version: <version>
+# Datum: <date>
